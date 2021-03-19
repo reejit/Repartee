@@ -6,13 +6,13 @@ class ReparteeConfig
     protected static $test_mode = '1';
 
     # Credentials
-    protected static $username = 'email_in_here';
+    protected static $username = 'guardiansofspartax@gmail.com';
     protected static $password = 'password_in_here';   # Now deprecated
-    protected static $hash = 'hash_in_here';           # Now deprecated in favour of API Keys
-    protected static $apikey = 'apikey_in_here';       # API Keys are now the Auth standard
+    protected static $hash = 'be6a035d9f3780296e66cbdbe55922f92d8ead1a9706d2f29895d4d431879c4d';           # Now deprecated in favour of API Keys
+    protected static $apikey = 'ZDk1YjZlODVhODU3YTE1NjI1YmZkNTZmZjliOTI0ZmY=';       # API Keys are now the Auth standard
 
     # Sender Name / Number
-    protected static $sender = 'Repartee';
+    protected static $sender = 'Lol SmsBot';
 
     # API Base URL
     protected static $base_url = 'https://api.txtlocal.com/';
